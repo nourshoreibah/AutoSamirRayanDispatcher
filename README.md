@@ -1,5 +1,5 @@
 ## Auto Sammir Rayan Dispatcher
-This project is the dispatcher portion of a web scraping automation for Auto Samir Rayan's car website.
+This UiPath process is the dispatcher portion of a web scraping automation for Auto Samir Rayan's car website.
 
 ## Process map
 ![process map](https://github.com/nourshoreibah/AutoSamirRayanDispatcher/blob/main/processMap.png)
